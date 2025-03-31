@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <safety_para>true</safety_para>
+    <sigma>0.7</sigma>
+    <delta>0.1</delta>
+    <k>5</k>
+</config>
